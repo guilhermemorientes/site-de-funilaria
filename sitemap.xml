@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://sitedefunilaria.com.br/</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sitedefunilaria.com.br/img/compartilhamento.webp</image:loc>
+      <image:title>Site de Funilaria - Funilaria e Pintura Automotiva</image:title>
+      <image:caption>Funilaria e pintura automotiva profissional com 15 anos de experiência</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Services Section -->
+  <url>
+    <loc>https://sitedefunilaria.com.br/#servicos</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Differentials Section -->
+  <url>
+    <loc>https://sitedefunilaria.com.br/#diferenciais</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Gallery Section -->
+  <url>
+    <loc>https://sitedefunilaria.com.br/#galeria</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact Section -->
+  <url>
+    <loc>https://sitedefunilaria.com.br/#contato</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- FAQ Section -->
+  <url>
+    <loc>https://sitedefunilaria.com.br/#faq</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
